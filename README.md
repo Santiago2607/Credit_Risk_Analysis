@@ -11,9 +11,9 @@ After some programming and algorithms, we were able to gather the following resu
 
 1) The Naive Random Oversampling method has:
 
-+ A balanced accuracy score of 0.63669.
-+ A high risk precision score of 0.01 and a recall score of 0.62.
-+ A low risk precision score of 1.00 and a recall score of 0.65.
+  + A balanced accuracy score of 0.63669.
+  + A high risk precision score of 0.01 and a recall score of 0.62.
+  + A low risk precision score of 1.00 and a recall score of 0.65.
 
 ![image](https://user-images.githubusercontent.com/113261292/218922689-81527af8-9559-4a25-8ce0-54bfeb51a0c4.png)
 
