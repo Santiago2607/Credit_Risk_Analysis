@@ -17,7 +17,7 @@ After some programming and algorithms, we were able to gather the following resu
 
 ![image](https://user-images.githubusercontent.com/113261292/218922689-81527af8-9559-4a25-8ce0-54bfeb51a0c4.png)
 
-2) The SMOTE Oversampling method has:
+### The SMOTE Oversampling method has:
 
   + A balanced accuracy score of 0.63027.
   + A high risk precision score of 0.01 and a recall score of 0.62.
@@ -25,7 +25,7 @@ After some programming and algorithms, we were able to gather the following resu
 
 ![image](https://user-images.githubusercontent.com/113261292/218923190-d83f02ca-5892-48d8-9aa0-cb9d05de6a56.png)
 
-3) The Undersampling method has:
+### The Undersampling method has:
 
   + A balanced accuracy score of 0.63669.
   + A high risk precision score of 0.01 and a recall score of 0.59.
@@ -33,7 +33,7 @@ After some programming and algorithms, we were able to gather the following resu
 
 ![image](https://user-images.githubusercontent.com/113261292/218923534-b975181b-67cc-4d94-8a7c-a9867f25e665.png)
 
-4) The Combination (Over and Under) Sampling method has:
+### The Combination (Over and Under) Sampling method has:
 
   + A balanced accuracy score of 0.51027.
   + A high risk precision score of 0.01 and a recall score of 0.70.
@@ -41,7 +41,7 @@ After some programming and algorithms, we were able to gather the following resu
 
 ![image](https://user-images.githubusercontent.com/113261292/218923894-35461b62-5de8-4dc7-96b6-c52e0df1a7b5.png)
 
-5) The Balanced Random Forest Classifier method has:
+### The Balanced Random Forest Classifier method has:
 
   + A balanced accuracy score of 0.78776.
   + A high risk precision score of 0.04 and a recall score of 0.67.
@@ -49,7 +49,7 @@ After some programming and algorithms, we were able to gather the following resu
 
 ![image](https://user-images.githubusercontent.com/113261292/218924239-6d3ccc00-4c7c-46c4-b0d9-8851daf34492.png)
 
-6) The Easy Ensemble AdaBoost Classifier method has:
+### The Easy Ensemble AdaBoost Classifier method has:
 
   + A balanced accuracy score of 0.92542.
   + A high risk precision score of 0.07 and a recall score of 0.91.
@@ -58,3 +58,5 @@ After some programming and algorithms, we were able to gather the following resu
 ![image](https://user-images.githubusercontent.com/113261292/218924441-d3f8cce1-1f0b-4ded-8da5-b90b2abe3f10.png)
 
 ## Summary
+
+According to all the results we got during the project and based on all the different methods we used, we can say that the best option to perform a credit risk analysis is to use the "Easy Ensemble AdaBoost Classifier method." This method not only surpasses all the others' balanced accuracy scores but also the high and low risk precision scores along with the total recall score. Due to these facts, the Easy Ensemble AdaBoost Classifier method is the best option for companies, banks, or any other financial institutions to use in order to avoid present and future credit risks.
